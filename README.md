@@ -81,15 +81,19 @@ The analysis helps hospital management understand:
 
 ## 💡 Business Value
 
-This analysis can support hospital management in:
+KEY INSIGHTS
 
-- Improving resource allocation.
-- Optimizing staffing decisions.
-- Monitoring department performance.
-- Reducing potential losses from expired medical stock.
-- Understanding revenue and profitability.
-- Improving inventory management.
-- Making data-driven operational decisions.
+1. Revenue Concentration
+Revenue is concentrated in a limited number of departments.
+
+2. Patient Status
+70% of patients are discharged, while 30% remain admitted.
+
+3. Medication Expiry
+Medication expiry represents a potential financial loss of 13,395, with approximately 77% associated with 2024 expiry.
+
+4. Resource Distribution
+Doctor and patient volumes vary across departments, indicating differences in workload and resource distribution.
 
 ## 📁 Project Structure
 
