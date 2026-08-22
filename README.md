@@ -98,10 +98,17 @@ Doctor and patient volumes vary across departments, indicating differences in wo
 ## 📁 Project Structure
 
 ```text
-Hospital-Data-Analysis/
+Hospital-Analysis/
 │
-├── Hospital_Data_Analysis.xlsx
-├── Dashboard.png
+├── Analysis/
+│   └── Hospital_Data_Analysis.xlsx
+│
+├── Dashboard/
+│   └── Dashboard.png
+│
+├── Data/
+│   └── Raw Hospital Data
+│
 └── README.md
 ```
 
